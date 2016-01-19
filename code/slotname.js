@@ -1,3 +1,5 @@
+outlets = 2;
+
 var prefix = "P";
 var suffix = ".wav";
 var slot = 0;
@@ -22,4 +24,12 @@ function msg_int(v)
     }
     bang();
 }
+
+function dump()
+{
+    for (var i = 0; i < slotNames.length; i++) {
+	outlet(1, "append", prefix + slotNames[i] + suffix);
+    }
+}
+    
 	
