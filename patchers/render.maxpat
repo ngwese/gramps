@@ -1170,7 +1170,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 662.0, 552.0, 204.0, 22.0 ],
 					"style" : "",
-					"text" : "GRANDPA:/PZ.wav"
+					"text" : "GRANDPA:/P4.wav"
 				}
 
 			}
@@ -1236,7 +1236,7 @@
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
 					"patching_rect" : [ 391.0, 654.0, 67.0, 22.0 ],
-					"restore" : [ 10.0, 0.0, 5.0, 0.0, 2.5, 0, 0.0, 10.0, 5.0, 0, 0.0, "curve" ],
+					"restore" : [ 10.0, 0.0, 5.0, 0.0, 2.5, 0, 0.0, 2.0, 3.8, 0, -0.25, 3.0, 3.4, 0, -0.45, 4.0, 1.7, 0, -0.6, 6.0, 2.75, 0, 0.85, 8.0, 0.75, 0, -0.845, 9.0, 4.5, 0, -0.6, 10.0, 2.5, 0, 0.55, "curve" ],
 					"saved_object_attributes" : 					{
 						"parameter_enable" : 0
 					}
@@ -1270,7 +1270,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 783.0, 649.0, 44.0, 35.0 ],
 					"style" : "",
-					"text" : "clear 36."
+					"text" : "clear 5."
 				}
 
 			}
@@ -1311,7 +1311,7 @@
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
 					"patching_rect" : [ 819.0, 39.0, 111.0, 22.0 ],
-					"restore" : [ "test" ],
+					"restore" : [ "<empty>" ],
 					"saved_object_attributes" : 					{
 						"parameter_enable" : 0
 					}
@@ -1341,7 +1341,6 @@
 					"presentation_rect" : [ 121.0, 73.0, 258.0, 19.0 ],
 					"rounded" : 0.0,
 					"style" : "",
-					"text" : "test",
 					"textcolor" : [ 0.784314, 0.145098, 0.023529, 1.0 ],
 					"varname" : "textedit[1]",
 					"wordwrap" : 0
@@ -1521,7 +1520,7 @@
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
 					"patching_rect" : [ 847.0, 139.0, 139.0, 22.0 ],
-					"restore" : [ "description" ],
+					"restore" : [ "<empty>" ],
 					"saved_object_attributes" : 					{
 						"parameter_enable" : 0
 					}
@@ -1582,7 +1581,6 @@
 					"presentation_rect" : [ 121.0, 102.0, 258.0, 79.0 ],
 					"rounded" : 0.0,
 					"style" : "",
-					"text" : "description",
 					"textcolor" : [ 0.784314, 0.145098, 0.023529, 1.0 ],
 					"varname" : "textedit"
 				}
@@ -2012,7 +2010,7 @@
 			}
 , 			{
 				"box" : 				{
-					"addpoints_with_curve" : [ 0.0, 2.5, 0, 0.0, 10.0, 5.0, 0, 0.0 ],
+					"addpoints_with_curve" : [ 0.0, 2.5, 0, 0.0, 2.0, 3.8, 0, -0.25, 3.0, 3.4, 0, -0.45, 4.0, 1.7, 0, -0.6, 6.0, 2.75, 0, 0.85, 8.0, 0.75, 0, -0.845, 9.0, 4.5, 0, -0.6, 10.0, 2.5, 0, 0.55 ],
 					"bgcolor" : [ 0.290196, 0.309804, 0.301961, 0.0 ],
 					"domain" : 10.0,
 					"grid" : 3,
@@ -2115,7 +2113,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 169.5, 28.25, 99.0, 35.0 ],
 					"style" : "",
-					"text" : "PZ.wav",
+					"text" : "P4.wav",
 					"textcolor" : [ 0.784314, 0.145098, 0.023529, 0.5 ]
 				}
 
